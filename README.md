@@ -1,12 +1,20 @@
-# React + Vite
+# 🎮 Catálogo de Videojuegos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una aplicación web que permite gestionar un catálogo de videojuegos, se puede añadir, editar y eliminar diferentes juegos. Los usuarios pueden ver información de cada juego, incluyendo su título, género, plataforma,dificultad y fecha de lanzamiento.
 
-Currently, two official plugins are available:
+## 🛠️ Tecnologías utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React.js / HTML  / JavaScript / Tailwind
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Instalación
+
+1. Clona el repositorio:
+2. Abre visual studio
+3. Abre una terminal en el proyecto, ingresa a la carpeta
+   `cd Catalogo_Videojuegos`
+4. Instala las dependencias
+   `npm install` o `npm i`
+5. Inicia el servidor
+   `npm run dev`
+6. Listo! Ya podrás empezar a usarlo.
