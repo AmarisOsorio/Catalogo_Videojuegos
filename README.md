@@ -4,7 +4,7 @@ Este proyecto es una aplicación web que permite gestionar un catálogo de video
 
 ## 🛠️ Tecnologías utilizadas
 
-React.js / HTML / CSS / JavaScript
+React.js / HTML  / JavaScript / Tailwind
 
 
 ## 📦 Instalación
