@@ -11,7 +11,7 @@ React.js / HTML  / JavaScript / Tailwind
 
 1. Clona el repositorio:
 2. Abre visual studio y abre una terminal en el proyecto, ingresa a la carpeta
-   ```cd Catalogo_Videojuegos
+   `cd Catalogo_Videojuegos`
 3. Instala las dependencias
    npm install o npm i
 4. Inicia el servidor
