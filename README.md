@@ -19,4 +19,5 @@ React.js / HTML  / JavaScript / Tailwind
    `npm run dev`
 6. Listo! Ya podrás empezar a usarlo.
 
-🎬 [Ver video demo](./VideoFuncionalidad.mp4)
+🎬El video se encuentra en esta misma carpeta :)
+
