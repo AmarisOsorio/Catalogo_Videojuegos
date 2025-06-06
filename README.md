@@ -18,3 +18,5 @@ React.js / HTML  / JavaScript / Tailwind
 5. Inicia el servidor
    `npm run dev`
 6. Listo! Ya podrás empezar a usarlo.
+
+🎬 [Ver video demo](./VideoFuncionalidad.mp4)
